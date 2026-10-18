@@ -1,0 +1,8 @@
+{
+  "name": "harry-openway",
+  "description": "Executive presentation web application for Harry Gultom applying for Senior Business Development Executive at OpenWay Group (WAY4 Digital Payments).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
